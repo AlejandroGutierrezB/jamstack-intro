@@ -5,7 +5,8 @@
   "author": "Jason Lengstorf <jason@lengstorf.com> (https://lengstorf.com)",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build"
+    "build": "gatsby build",
+    "develop": "gatsby develop"
   },
   "dependencies": {
     "@reach/dialog": "^0.3.0",
